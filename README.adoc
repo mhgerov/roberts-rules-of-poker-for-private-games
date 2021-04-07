@@ -280,7 +280,7 @@ Seven-card stud is played with two downcards and one upcard dealt before the fir
 
 The lowest hand wins the pot. The format is similar to seven-card stud high, except the high card (aces are low) isrequired to make the forced bet on the first round, and the low hand acts first on all subsequent rounds.Straightsand flushes have no ranking, so the best possible hand is 5-4-3-2-A (a wheel). An open pair does not affect thebetting limit.
 
-Rules of Razz
+h
 
 . All seven-card stud rules apply in razz except as otherwise noted.
 . The lowest hand wins the pot. Aces are low, and straights and flushes have no effect on the low value of ahand. The best possible hand is 5-4-3-2-A.
@@ -301,6 +301,162 @@ Seven-card stud high-low split is a stud game which is played both high and low.
 . Straights and flushes do not affect the value of a low hand.
 . Fixed-limit games use the lower limit on third and fourth streets and the upper limit on subsequent rounds. Anopen pair on fourth street does not affect the limit.
 . Splitting pots is only determined by the cards and not by agreement among players.
-. When there is an odd chip in a pot, the chip goes to the high hand. If two players split the pot by tying for boththe high and the low, the pot shall be split as evenly as possible, and the player with the highest card by suit
+. When there is an odd chip in a pot, the chip goes to the high hand. If two players split the pot by tying for boththe high and the low, the pot shall be split as evenly as possible, and the player with the highest card by suit receives the odd chip. When making this determination, all cards are used, not just the five cards used for thefinal hand played.
+. When there is one odd chip in the high portion of the pot and two or more high hands split all or half the pot,the odd chip goes to the player with the high card by suit. When two or more low hands split half the pot, theodd chip goes to the player with the low card by suit.
 
+== Lowball
 
+Lowball is draw poker with the lowest hand winning the pot. Each player is dealt five cards facedown, after whichthere is a betting round. Players are required to open with a bet or fold. The players who remain in the pot after thefirst betting round now have an option to improve their hand by replacing cards in their hands with new ones. Thisis the draw. The game is normally played with one or more blinds, sometimes with an ante added. Some bettingstructures allow the big blind to be called; other structures require the minimum open to be double the big blind. Inlimit poker, the usual structure has the limit double after the draw (Northern California is an exception). The mostpopular forms of lowball are ace-to-five lowball (also known as California lowball), and deuce-to-seven lowball(also known as Kansas City lowball). Ace-to-five lowball gets its name because the best hand at that form is 5-4-3-2-A. Deuce-to-seven lowball gets its name because the best hand at that form is 7-5-4-3-2 (not of the same suit).For a further description of the forms of lowball, please see the individual section for each game. All rulesgoverning kill pots are listed in “Section 13 – Kill Pots.”
+
+=== Rules of Lowball
+
+. The rules governing misdeals for hold’em and other button games will be used for lowball. [See “Section 16 –Explanations,” discussion #7, for more information on this rule.] These rules governing misdeals are reprintedhere for convenience.“The following circumstances cause a misdeal, provided attention is called to the error before two players haveacted on their hands:
+.. The first or second card of the hand has been dealt faceup or exposed through dealer error.
+.. Two or more cards have been exposed by the dealer.
+.. Two or more extra cards have been dealt in the starting hands of a game.
+.. An incorrect number of cards has been dealt to a player, except the button may receive one more card tocomplete a starting hand.
+.. The button was out of position.
+.. The first card was dealt to the wrong position.
+.. Cards have been dealt out of the proper sequence.
+.. Cards have been dealt to an empty seat or a player not entitled to a hand.
+.. A player has been dealt out who is entitled to a hand. This player must be present at the table or haveposted a blind or ante.”
+. As a new player, you have two options:
+.. To wait for the big blind.
+.. To kill the pot for double the amount of the big blind.
+. In a single-blind game, a player who has less than half a blind may receive a hand. However, the next player isobligated to take the blind. If the all-in player wins the pot or buys in again, that player will then be obligatedto either take the blind on the next deal or sit out until due for the big blind.
+. In single-blind games, half a blind or more constitutes a full blind.
+. In single-blind games, if you fail to take the blind, you may only be dealt in on the blind.
+. In multiple-blind games, if for any reason the big blind passes your seat, you may either wait for the big blindor kill the pot in order to receive a hand. This does not apply if you have taken all of your blinds and changedseats. In this situation, you may be dealt in as soon as your position relative to the blinds entitles you to a hand(the button may go by you once without penalty).
+. Before the draw, whether an exposed card must be taken depends on the form of lowball being played; see thatform. (The player never has an option.)
+. On the draw, an exposed card cannot be taken. The draw is completed to each player in order, and then theexposed card is replaced.
+. A player may draw up to four consecutive cards. If a player wishes to draw five new cards, four are dealt rightaway, and the fifth card after everyone else has drawn cards. If the last player wishes to draw five new cards,four are dealt right away, and a card is burned before the player receives a fifth card. [See “Section 16 –Explanations,” discussion #9, for more information about this rule.]
+. Five cards constitute a playing hand; more or fewer than five cards after the draw constitutes a fouled hand.Before the draw, if you have fewer than five cards in your hand, you may receive additional cards, provided noaction has been taken by the first player to act (unless that action occurs before the deal is completed).However, the dealer position may still receive a missing fifth card, even if action has taken place. If action hasbeen taken, you are entitled on the draw to receive the number of cards necessary to complete a five-cardhand.
+. You may change the number of cards you wish to draw, provided:
+.. No card has been dealt off the deck in response to your request (including the burncard).
+.. No player has acted, in either the betting or indicating the number of cards to be drawn, based on thenumber of cards you have requested.
+. If you are asked how many cards you drew by another active player, you are obligated to respond until therehas been action after the draw, and the dealer is also obligated to respond. Once there is any action after the draw, you are no longer obliged to respond and the dealer cannot respond.
+. Rapping the table in turn constitutes either a pass or the declaration of a pat hand that does not want to drawany cards, depending on the situation.
+. Cards speak (cards read for themselves). However, you are not allowed to claim a better hand than you hold.(Example: If a player calls an "8", that player must produce at least an "8" low or better to win. But if a playererroneously calls the second card incorrectly, such as “8-6” when actually holding an 8-7, no penalty applies.)If you miscall your hand and cause another player to foul his or her hand, your hand is dead. If both handsremain intact, the best hand wins. If a miscalled hand occurs in a multihanded pot, the miscalled hand is dead,and the best remaining hand wins the pot. For your own protection, always hold your hand until you see youropponent’s cards.
+. Any player spreading a hand with a pair in it must announce "pair" or risk losing the pot if it causes any otherplayer to foul a hand. If two or more hands remain intact, the best hand wins the pot.
+
+=== Ace-to-Five Lowball
+
+In ace-to-five lowball, the best hand is any 5-4-3-2-A. Straights and flushes do not count against your hand.
+. If a joker is used, it becomes the lowest card not present in your hand. The joker is assumed to be in use unlessthe contrary is posted.
+. In limit play, check-raise is not permitted (unless the players are alerted that it is allowed).
+. In limit ace-to-five lowball, before the draw, an exposed card of seven or under must be taken, and an exposedcard higher than a seven must be replaced after the deal has been completed. This first exposed card is used asthe burncard. [See “Section 16 – Explanations,” discussion #8, for more information on this rule.]
+. Some lowball games may wish to employ the “sevens rule.” It works as follows. If you check a seven or betterand it is the best hand, all action after the draw is void, and you cannot win any money on any subsequentbets. You are still eligible to win whatever existed in the pot before the draw if you have the best hand. If youcheck a seven or better and the hand is beaten, you lose the pot and any additional calls you make. If there isan all-in bet after the draw that is less than half a bet, a seven or better may just call and win that bet.However, if another player overcalls this short bet and loses, the person who overcalls receives the bet back.If the seven or better completes to a full bet, this fulfills all obligations.
+
+=== Deuce-to-Seven Lowball
+
+In deuce-to-seven lowball (sometimes known as Kansas City lowball), in most respects, the worst conventionalpoker hand wins. Straights and flushes count against you, crippling the value of a hand. The ace is used only as ahigh card. Therefore, the best hand is 7-5-4-3-2, not all of the same suit. The hand 5‑4‑3‑2‑A is not considered tobe a straight, but an ace-5 high, so it beats other ace-high hands and pairs, but loses to king-high.A pair of aces isthe highest pair, so itloses to any other pair. The rules for deuce-to-seven lowball are the same as those for ace-to-five lowball, except for the followingdifferences:
+. The best hand is 7-5-4-3-2 of at least two different suits. Straights and flushes count against you, and aces areconsidered high only.
+. Before the draw, an exposed card of 7, 5, 4, 3, or, 2 must be taken. Any other exposed card must be replaced(including a 6).
+. Check-raise is allowed on any hand after the draw, and a seven or better is not required to bet.
+
+=== No-Limit and Pot-Limit Lowball
+
+. All the rules for no-limit and pot-limit poker (see Section 14 - No-limit and Pot-limit) apply to no-limit andpot-limit lowball. All other lowball rules apply, except as noted.
+. A player is not entitled to know that an opponent does not hold the best possible hand, so these rules forexposed cards before the draw apply:
+.. In ace-to-five lowball, a player must take an exposed card of A, 2, 3, 4, or 5, and any other card must bereplaced.
+.. In deuce-to-seven lowball, the player must take an exposedcard of 2, 3, 4, 5, or 7, and any other cardincluding a 6 must be replaced.
+. After the draw, any exposed card must be replaced.
+. After the draw, a player may check any hand without penalty (The sevens rule is not used).
+. Check-raise is allowed.
+
+== Draw High
+
+There are two betting rounds, one before the draw and one after the draw. The game is played with a button and anante. Players in turn may check, open for the minimum, or open with a raise. After the first betting round theplayers have the opportunity to draw new cards to replace the ones they discard. Action after the draw starts withthe opener, or next player proceeding clockwise if the opener has folded. The betting limit after the draw is twicethe amount of the betting limit before the draw. Some draw high games allow a player to open on anything; othersrequire the opener to have a pair of jacks or better.
+
+=== Rules of Draw High
+
+. A maximum of a bet and four raises is permitted in multihanded pots. [See “Section 16 – Explanations,”discussion #6, for more information on this rule.]
+. Check-raise is permitted both before and after the draw.
+. Any card that is exposed by the dealer before the draw must be kept.
+. Five cards constitute a playing hand. Less than five cards for a player (other than the button) before action hasbeen taken is a misdeal. If action has been taken, a player with fewer than five cards may draw the number ofcards necessary to complete a five-card hand. The button may receive the fifth card even if action has takenplace. More or fewer than five cards after the draw constitutes a fouled hand.
+. A player may draw up to four consecutive cards. If a player wishes to draw five new cards, four are dealt rightaway, and the fifth card after everyone else has drawn cards. If the last player wishes to draw five new cards,four are dealt right away, and a card is burned before the player receives a fifth card. [See “Section 16 –Explanations,” discussion #9, for more information about this rule.]
+. You may change the number of cards you wish to draw, provided:
+.. No cards have been dealt off the deck in response to your request (including the burncard).
+.. No player has acted, in either the betting or indicating the number of cards to be drawn, based on thenumber of cards you have requested.
+. If you are asked how many cards you drew by another active player, you are obligated to respond until therehas been action after the draw, and the dealer is also obligated to respond. Once there is any action after thedraw, you are no longer obliged to respond and the dealer cannot respond.
+. On the draw, an exposed card cannot be taken. The draw is completed to each player in order, and then theexposed card is replaced.
+. Rapping the table in turn constitutes either a pass or the declaration of a pat hand that does not want to drawany cards, depending on the situation. A player who indicates a pat hand by rapping the table, not knowing thepot has been raised, may still play his or her hand.
+. You may not change your seat between hands when there are multiple antes or forfeited money in the pot.
+. You have the right to pay the ante (whether single or multiple) at any time and receive a hand, unless there isany additional money in the pot that has been forfeited during a hand in which you were not involved.
+. If the pot has been declared open by an all-in player playing for just the antes, all callers must come in for thefull opening bet.
+. If you have only a full ante and no other chips on the table, you may play for just the antes. If no one opensand there is another ante, you may still play for that part of the antes that you have matched, without putting inany more money.
+
+=== Jacks-or-Better
+
+. A pair of jacks or better is required to open the pot. If no player opens the pot, the button moves forward andeach player must ante again, unless the limit of antes has been reached for that particular game. (Most gamesallow three consecutive deals before anteing stops.)
+. If the opener should show false openers before the draw, any other active player has the opportunity to declarethe pot opened. However, any player who [HP1]originally passed openers is not eligible to declare the pot open.The false opener has a dead hand and the opening bet stays in the pot. Any other bet placed in the pot by theopener may be withdrawn, provided the action before the draw is not completed. If no other player declaresthe pot open, all bets are returned except the opener’s first bet. The first bet and antes will remain in the pot,and all players who were involved in that hand are entitled to play the next hand after anteing again.
+. Any player who has legally declared the pot opened must prove openers in order to win the pot.
+. In all cases, the pot will play (even if the opener shows or declares a fouled hand) if there has been a raise, twoor more players call the opening bet, or all action is completed before the draw.
+. Even if you are all in for just the ante (or part of the ante), you may declare the pot open if you have openers.If you are all in and falsely declare the pot open, you will lose the ante money and may not continue to play onany subsequent deals until a winner is determined. Even if you buy in again, you must wait until the pot hasbeen legally opened and someone else has won it before you can resume playing.
+. Once action has been completed before the draw, the opener may not withdraw any bets, whether or not thehand contains openers.
+. An opener may be allowed to retrieve a discarded hand to prove openers, at management’s discretion.
+. Any player may request that the opener retain the opening hand and show it after the winner of the pot hasbeen determined.
+. You may split openers, but you must declare that you are splitting and place all discards under a chip to beexposed by the dealer after the completion of the hand. If you declare that you are splitting openers, but it isdetermined that  you  could  not  possibly have  had  openers when  your  final  hand  is  compared with  yourdiscards, you will lose the pot.
+. You are not splitting openers if you retain openers. If you begin with the ace, joker, king, queen of spades, andthe ten of clubs, you are not splitting if you throw the ten of clubs away. You are breaking a straight to draw toa royal flush, and in doing so, you have retained openers (ace-joker for two aces).
+. After the draw, if you call the opener’s bet and cannot beat openers, you will not get your bet back. (You havereceived information about opener’s hand that is not free.)
+
+=== The Joker
+
+. The players will be alerted as to whether the joker is in use.
+. The joker may be used only as an ace, or to complete a straight, flush, or straight flush. (Thus it is not acompletely wild card.)
+. If the joker is used to make a flush, it will be the highest card of the flush not present in the hand.
+. Five aces is the best possible hand (four aces and joker).
+
+==  Kill Pots
+
+To kill a pot means to post an overblind that increases the betting limit. A full kill is double the amount of the bigblind, and doubles the betting limits. A half kill is one-and-a-half times the big blind, and increases the bettinglimits by that amount. A kill may be optional in a game, and is often used at lowball when a player wants to bedealt in right away instead of waiting to take the big blind. A kill may be required in a game for any time aspecified event takes place. In high-low split games using a required kill, a player who scoops a pot bigger than aset size must kill the next pot. In other games using a required kill, a player who wins two consecutive pots mustkill the next pot. In this type of kill game, a marker called a “kill button” indicates which player has won the pot,and the winner keeps this marker until the next hand is completed. If the player who has the kill button wins asecond consecutive pot and it qualifies monetarily, that player must kill the next pot.
+
+=== Rules of Kill Pots
+
+. The kill button is neutral (belonging to no player) if:
+.. It is the first hand of a new game.
+.. The winner of the previous pot has quit the game.
+.. The previous pot was split and neither player had the kill button.
+. In a kill pot, the killer acts in proper turn (after the person on the immediate right).
+. There is no pot-size requirement for the first pot or "leg" of a kill. For the second "leg" to qualify for a kill, youmust win at least one full bet for whatever limit you are playing, and it cannot be any part of the blindstructure.
+. If a player with one "leg up" splits the next pot, that player still has a "leg up" for the next hand. If the playerwho split the pot was the kill in the previous hand, then that player must also kill the next pot.
+. A person who leaves the table with a “leg up” toward a kill still has a “leg up” upon returning to the game.
+. A player who is required to post a kill must do so that same hand even if wishing to quit or be dealt out. Aplayer who fails to post a required kill blind will not be allowed to participate in any game until the kill moneyis posted.
+. Kill blinds are considered part of the pot. If a player with a required kill wins again, then that player must killit again (for the same amount as the previous hand).
+. When a player wins both the high and the low pot (“scoops”) in a split-pot game with a kill provision, the nexthand will be killed only if the pot is at least five times the size of the upper limit of the game.
+. If you are unaware that the pot has been killed and put in a lesser amount, If it is a required kill pot with thekill button faceup, you must put in the correct amount. If not, you may withdraw the chips and reconsider youraction.
+. In lowball, an optional rule is allowing players to look at their first two cards and then opt whether to kill thepot. The pot may no longer be killed if any player in the game has received a third card. In order to kill the potvoluntarily, you must have at least four times the amount of the kill blind in your stack. For example: If the bigblind is two chips, and the kill blind is four chips, the voluntary killer must have at least 16 chips prior toposting the kill. If this rule is used, it is in conjunction with having the killer act last on the first betting roundrather than in proper order.
+. Only one kill is allowed per deal.
+. A new player is not entitled to play in a killed pot, but may do so by agreeing to kill the next pot.
+. Broken game status is allowed only for players of the same limit and game type. For this purpose, a game witha required kill is considered a different type of game than an otherwise similar game without a required kill.
+
+== No Limit and Pot-Limit
+
+A no-limit or pot-limit betting structure for a game gives it a different character from limit poker, requiring aseparate set of rules in many situations. All the rules for limit games apply to no-limit and pot-limit games, exceptas noted in this section. No-limit means that the amount of a wager is limited only by the table stakes rule, so anypart or all of a player’s chips may be wagered. The rules of no-limit play also apply to pot-limit play, except that abet may not exceed the pot size. For those rules that apply only to no-limit and pot-limit lowball, see the sub-section at the end of “Section 11 – Lowball.”
+
+=== No-Limit Rules
+
+. The number of raises in any betting round is not limited.
+. All bets must be at least equal to the minimum bring-in, unless the player is going all-in. (A straddle bet sets anew minimum bring-in, and is not treated as a raise.)
+. All raises must be equal to or greater than the size of the previous bet or raise on that betting round, except foran all-in wager. A player who has already checked or called may not subsequently raise an all-in bet that isless than the full size of the last bet or raise. (The half-the-size rule for reopening the betting is for limit pokeronly.)Example: Player A bets $100 and Player B raises $100 more, making the total bet $200. If Player C goes all infor less than $300 total (not a full $100 raise), and Player A calls, then Player B has no option to raise again, because he wasn’t fully raised. (Player A could have raised, because Player B raised.)
+. A wager is not binding until the chips are actually released into the pot, unless the player has made a verbalstatement of action.
+. If there is a discrepancy between a player's verbal statement and the amount put into the pot, the bet will becorrected to the verbal statement.
+. If a call is short due to a counting error, the amount must be corrected, even if the bettor has shown down asuperior hand.
+. Because the amount of a wager at big-bet poker has such a wide range, a player who has taken action based ona gross misunderstanding of the amount wagered needs some protection. A bettor should not show down ahand until the amount put into the pot for a call seems reasonably correct, or it is obvious that the callerunderstands the amount wagered. The decision-maker is allowed considerable discretion in ruling on this typeof situation. A possible rule-of-thumb is to disallow any claim of not understanding the amount wagered if thecaller has put eighty percent or more of that amount into the pot.Example: On the end, a player puts a $500 chip into the pot and says softly, “Four hundred.” The opponentputs a $100 chip into the pot and says, “Call.” The bettor immediately shows the hand. The dealer says, “Hebet four hundred.” The caller says, “Oh, I thought he bet a hundred.” In this case, the recommended rulingnormally is that the bettor had an obligation to not show the hand when the amount put into the pot wasobviously short, and the “call” can be retracted. Note that the character of each player can be a factor.(Unfortunately, situations can arise at big-bet poker that are not so clear-cut as this.)
+. A player who says "raise" is allowed to continue putting chips into the pot with more than one move; thewager is assumed complete when the player’s hands come to rest outside the pot area. (This rule is usedbecause no-limit play may require a large number of chips be put into the pot.)
+. A bet of a single chip or bill without comment is considered to be the full amount of the chip or bill allowed.However, a player acting on a previous bet with a larger denomination chip or bill is calling the previous betunless this player makes a verbal declaration to raise the pot. (This includes acting on the forced bet of the bigblind.)
+. If a player tries to bet or raise less than the legal minimum and has more chips, the wager must be increased tothe proper size. (This does not apply to a player who has unintentionally put too much in to call.) The wager isbrought up to the sufficient amount only, no greater size.
+. All wagers may be required to be in the same denomination of chip (or larger) used for the minimum bring-in,even if smaller chips are used in the blind structure. If this is done, the smaller chips do not play except inquantity, even when going all-in.
+. In non-tournament games, one optional live straddle is allowed. The player who posts the straddle has lastaction for the first round of betting and is allowed to raise. To straddle, a player must be on the immediate left of the big blind, and must post an amount twice the size of the big blind.
+. In all no-limit and pot-limit games, the house has the right to place a maximum time limit for taking action onyour hand. The clock may be put on someone by the dealer as directed by a floorperson, if a player requests it.If the clock is put on you when you are facing a bet, you will have one additional minute to act on your hand.You will have a ten-second warning, after which your hand is dead if you have not acted.
+. "Insurance" or any other “proposition wagers” are not allowed. Players are asked to refrain from instigatingproposition wagers in any form. The players are allowed to agree to deal twice (or three times) when someoneis all-in. “Dealing twice” means the pot is divided in two, with each portion being dealt for separately.
+
+=== Pot-Limit Rules
+
+. If a wager is made that exceeds the pot size, the surplus will be given back to the bettor as soon as possible,and the amount will be reduced to the maximum allowable.
+. The dealer or any player in the game can and should call attention to a wager that appears to exceed the potsize (this also applies to heads-up pots). The oversize wager may be corrected at any point until all playershave acted on it.
+. If an oversize wager has stood for a length of time with someone considering what action to take, that personhas had to act on a wager that was thought to be a certain size. If the player then decides to call or raise, andattention is called at this late point to whether this is an allowable amount, the floorperson may rule that theoversize amount must stand (especially if the person now trying to reduce the amount is the person that madethe wager).
+. The maximum amount a player can raise is the amount in the pot after the call is made. Therefore, if a pot is$100, and someone makes a $50 bet, the next player can call$50 and raise the pot $200, for a total wager of$250.
+. In pot-limit play, it is advisable in many structures to round off the pot size upward to produce a faster pace ofplay. This is done by treating any odd amount as the next larger size. For example, if the pot size was beingkept track of with $25 units, then a pot size of $80 would be treated asa pot size of $100.
+. In pot-limit hold’em and pot-limit Omaha, many structures treat the little blind as if it were the same size ofthe big blind in computing pot size. In such a structure, a player can open for a maximum of four times thesize of the big blind. For example, if the blinds are $5 and $10, a player may open with a raise to $40. (Therange of options is to either open with a call of $10, or raise in increments of five dollars to any amount from$20 to $40.) Subsequent players also treat the $5 as if it were $10 in computing the pot size, until the big blindis through acting on the first betting round.
+. In pot-limit, if a chip or a bill larger than the pot size is put into the pot without comment, it is considered to bea bet of the pot size.
