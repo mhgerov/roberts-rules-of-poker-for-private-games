@@ -644,3 +644,145 @@ This rule gives the absent player the maximum amount of time to return and be ab
 ACTION:: A fold, check, call, bet, or raise.
 For certain situations, doing something formally connected with thegame that conveys information about your hand may also be considered as having taken action.
 Examples wouldbe showing your cards at the end of the hand, or indicating the number of cards you are taking at draw.
+AGGRESSIVE ACTION:: A wager that could enable a player to win a pot without a showdown; a bet or raise.
+ALL-IN:: When you have put all of your playable money and chips into the pot during the course of a hand, youare said to be all-in.
+ANTE:: A prescribed amount posted before the start of a hand by all players.
+BET:: The act of placing a wager in turn into the pot on any betting round, or the chips put into the pot.
+BIG BLIND:: The largest regular blind in a game.
+BLIND:: A required bet made before any cards are dealt.
+BLIND GAME:: A game which utilizes a blind.
+BOARD:: (1) The board on which a waiting list is kept for players wanting seats in specific games.(2) Cardsfaceup on the table common to each of the hands.
+BOARDCARD:: A community card in the center of the table, as in hold’em or Omaha.
+BOXED CARD:: A card that appears faceup in the deck where all other cards are facedown.
+BROKEN GAME:: A game no longer in action.
+BURNCARD:: After the initial round of cards is dealt, the first card off the deck in each round that is placed undera chip in the pot, for security purposes. To do so is to burn the card; the card itself is called the burncard.
+BUTTON:: A player who is in the designated dealer position. See dealer button.
+BUTTON GAMES:: Games in which a dealer button is used.
+BUY-IN:: The minimum amount of money required to enter any game.
+CALIFORNIA LOWBALL:: Ace-to-five lowball with a joker.
+CARDS SPEAK:: The face value of a hand in a showdown is the true value of the hand, regardless of a verbalannouncement.
+CAPPED:: Describes the situation in limit poker in which the maximum number of raises on the betting roundhave been reached.
+CHECK:: To waive the right to initiate the betting in a round, but to retain the right to act if another player initiatesthe betting.
+CHECK-RAISE:: To waive the right to bet until a bet has been made by an opponent, and then to increase the betby at least an equal amount when it is your turn to act.
+COLOR CHANGE:: A request to change the chips from one denomination to another.
+COMMON CARD:: A card dealt faceup to be used by all players at the showdown in the games of stud pokerwhenever there are insufficient cards left in the deck to deal each player a card individually.
+COMMUNITY CARDS:: The cards dealt faceup in the center of the table that can be used by all players to formtheir best hand in the games of holdem and Omaha.
+COMPLETE THE BET:: To increase an all-in bet or forced bet to a full bet in limit poker.
+CUT:: To divide the deck into two sections in such a manner as to change the order of the cards.
+CUT-CARD:: Another term for the bottom card.
+DEAD CARD:: A card that is not legally playable.
+DEAD HAND:: A hand that is not legally playable.
+DEAD MONEY:: Chips that are taken into the center of the pot because they are not considered part of a particularplayer’s bet.
+DEAL:: To give each player cards, or put cards on the board. As used in these rules, each deal refers to the entireprocess from the shuffling and dealing of cards until the pot is awarded to the winner.
+DEALER BUTTON:: A flat disk that indicates the player who would be in the dealing position for that hand (ifthere were not a house dealer). Normally just called “the button.”
+DEAL OFF:: To take all the blinds and the button before changing seats or leaving the table. That is, participatethrough all the blind positions and the dealer position.
+DEAL TWICE:: When there is no more betting, agreeing to have the rest of the cards to come determine only halfthe pot, removing those cards, and dealing again for the other half of the pot.DECK: A set of playing-cards. In these games, the deck consists of either:
+. 52 cards in seven-card stud, hold’em, and Omaha.
+. 53 cards (including the joker), often used in ace-to-five lowball and draw high.
+
+DISCARD(S):: In a draw game, to throw cards out of your hand to make room for replacements, or the card(s)thrown away; the muck.
+DOWNCARDS:: Cards that are dealt facedown in a stud game.
+DRAW::
+. The poker form where players are given the opportunity to replace cards in the hand. In some placeslike California, the word “draw” is used referring to draw high, and draw low is called “lowball.
+. The act ofreplacing cards in the hand.
+. The point in the deal where replacing is done is called “the draw.”
+
+FACECARD:: A king, queen, or jack.
+FIXED LIMIT:: In limit poker, any betting structure in which the amount of the bet on each particular round ispre-set.
+FLASHED CARD:: A card that is partially exposed.
+FLOP:: In hold’em or Omaha, the three community cards that are turned simultaneously after the first round ofbetting is complete.
+FLUSH:: A poker hand consisting of five cards of the same suit.
+FOLD:: To throw a hand away and relinquish all interest in a pot.
+FOURTH STREET:: The second upcard in seven-card stud or the first boardcard after the flop in hold’em (alsocalled the turn card).
+FOULED HAND:: A dead hand.
+FORCED BET:: A required wager to start the action on the first betting round (the normal way action begins in astud game).
+FREEROLL:: A chance to win something at no risk or cost.
+FULL BUY:: A buy-in of at least the minimum requirement of chips needed for a particular game.
+FULL HOUSE:: A hand consisting of three of a kind and a pair.
+HAND::
+. All a player’s personal cards.
+. The five cards determining the poker ranking.
+. A single pokerdeal.
+
+HEADS-UP PLAY:: Only two players involved in play.
+HOLECARDS:: The cards dealt facedown to a player.
+INSURANCE:: A side agreement when someone is all-in for a player in a pot to put up money that guarantees apayoff of a set amount in case the opponent wins the pot.
+JOKER:: The joker is a “partially wild card” in high draw poker and ace-to-five lowball. In high, it is used foraces, straights, and flushes. In lowball, the joker is the lowest unmatched rank in a hand.
+KANSAS CITY LOWBALL:: A form of draw poker low also known as deuce-to-seven, in which the best hand is7-5-4-3-2 and straights and flushes count against you.
+KICKER:: The highestunpaired card that helps determine the value of a five-card poker hand.
+KILL (OR KILL BLIND):: An oversize blind, usually twice the size of the big blind and doubling the limit.Sometimes a “half-kill” increasing the blind and limits by fifty percent is used. A kill can be either voluntary ormandatory. The most common requirements of a mandatory kill are for winning two pots in a row at lowball andother games, or for scooping a pot in high-low split.
+KILL BUTTON:: A button used in a lowball game to indicate a player who has won two pots in a row and isrequired to kill the pot.
+KILL POT:: A pot with a forced kill by the winner of the two previous pots, or the winner of an entire pot ofsufficient size in a high-low split game. (Some pots can be voluntarily killed.)
+LEG UP:: Being in a situation equivalent to having won the previous pot, and thus liable to have to kill thefollowing pot if you win the current pot.
+LIVE BLIND:: A blind bet giving a player the option of raising if no one else has raised.
+LIST:: The ordered roster of players waiting for a game.
+LOCK-UP:: A chip marker that holds a seat for a player.
+LOWBALL:: A draw game where the lowest hand wins.
+LOWCARD:: The lowest upcard at seven-card stud, which is required to bet.
+MISCALL:: An incorrect verbal declaration of the ranking of a hand.
+MISDEAL:: A mistake on the dealing of a hand which causes the cards to be reshuffled and a new hand to bedealt.
+MISSED BLIND:: A required bet that is not posted when it is your turn to do so.
+MUCK::
+. The pile of discards gathered facedown in the center of the table by the dealer.
+. To discard a hand.
+
+NO-LIMIT:: A betting structure where players are allowed to wager any or all of their chips in one bet.
+OPENER:: The player who made the first voluntary bet.
+OPENER BUTTON:: A button used to indicate who opened a particular pot in a draw game.
+OPENERS:: In jacks-or-better draw, the cards held by the player who opens the pot that show the hand qualifies tobe opened. Example: You are first to bet and have a pair of kings; the kings are called your openers.
+OPTION:: The choice to raise a bet given to a player with a blind.
+OVERBLIND:: Also called oversize blind. A blind used in some pots that is bigger than the regular big blind, andusually increases the stakes proportionally.
+PASS::
+. Decline to bet. In a pass-and-out game, this differs from a check, because a player who passes mustfold.
+. Decline to call a wager, at which point you must discard your hand and have no further interest in the pot.
+
+PAT:: Not drawing any cards in a draw game.
+PLAY BEHIND:: Have chips in play that are not in front of you (allowed only when waiting for chips that arealready purchased). This differs from table stakes.
+PLAY THE BOARD:: Using all five community cards for your hand in hold’em.
+PLAY OVER:: To play in a seat when the occupant is absent.
+POSITION::
+. The relation of a player’s seat to the blinds or the button.
+. The order of acting on a bettinground or deal.
+
+POT-LIMIT:: The betting structure of a game in which you are allowed to bet up to the amount of the pot.
+POTTING OUT:: Agreeing with another player to take money out of a pot, often to buy food, cigarettes, or drinks,or to make side bets.
+PROPOSITION BETS:: Side bets between players that are not related to the outcome of the hand.
+PROTECTED HAND:: A hand of cards that the player is physically holding, or has topped with a chip or someother object to prevent a fouled hand.
+PUSH:: When a new dealer replaces an existing dealer at a particular table.
+PUSHING BETS:: The situation in which two or more players make an agreement to return bets to each otherwhen one of them wins a pot in which the other or others play. Also called saving bets.
+RACK::
+. A container in which chips are stored while being transported.
+. A tray in front of the dealer, used tohold chips and cards.
+
+RAISE:: To increase the amount of a previous wager. This increase must meet certain specifications, depending onthe game, to reopen the betting and count toward a limit on the number of raises allowed.
+RERAISE:: To raise someone’s raise.
+SAVING BETS:: Same as pushing bets.
+SCOOP:: To win both the high and the low portions of a pot in a split-pot game.
+SCRAMBLE:: A facedown mixing of the cards.
+SETUP:: Two suited decks, each with different colored backs, to replace the current decks in a game.
+SIDE POT:: A separate pot formed when one or more players are all in.
+SHORT BUY:: A buy-in that is less than the required minimum buy-in.
+SHOWDOWN:: The final act of determining the winner of the pot after all betting has been completed.
+SHUFFLE:: The act of mixing the cards before a hand.
+SMALL BLIND:: In a game with multiple blind bets, the smallest blind.
+SPLIT POT:: A pot that is divided among players, either because of a tie for the best hand or by agreement prior tothe showdown.
+SPLITTING BLINDS:: When no one else has entered the pot, an agreement between the big blind and small blindto each take back their blind bets instead of playing the deal (chopping).
+SPLITTING OPENERS:: In high draw jacks-or-better poker, dividing openers in hopes of making a different typeof hand. Example: You open the pot with a pair of aces. One of your aces is a spade, as are the three other cards inthe hand. If you throw away the non-spade ace to go for the flush, you announce to the table, “Splitting openers.”
+STACK:: Chips in front of a player.
+STRADDLE:: An additional blind bet placed after the forced blinds, usually double the big blind in size or inlowball, a multiple blind game.
+STRAIGHT:: Five cards in consecutive rank.
+STRAIGHT FLUSH:: Five cards in consecutive rank of the same suit.
+STREET:: Cards dealt on a particular round in stud games. For instance, the fourth card in a player’s hand is oftenknown as fourth street, the sixth card as sixth street, and so on.
+STRING RAISE:: A bet made in more than one motion, without the declaration of a raise (not allowed).
+STUB:: The portion of the deck which has not been dealt.
+TABLE STAKES::
+. The amount of money you have on the table. This is the maximum amount that you canlose or that anyone can win from you on any one hand.
+. The requirement that players can wager only the moneyin front of them at the start of a hand, and can only buy more chips between hands.
+
+“TIME”:: An expression used to stop the action on a hand. Equivalent to “Hold it.”
+TOURNAMENT:: A poker competition, normally with an entry fee and prizes.
+TURNCARD:: The fourth street card in hold'em or Omaha.
+UPCARDS:: Cards that are dealt faceup for opponents to see in stud games.
+WAGER::
+. To bet or raise.
+. The chips used for betting or raising.
