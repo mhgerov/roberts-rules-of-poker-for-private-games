@@ -247,8 +247,7 @@ The following actions are improper, and grounds for warning, suspending, or barr
 
 In button games, If the players deal the cards themselves, “the button” refers to the person who dealt the cards. (Ifa non-playing dealer does the actual dealing, a round disk called the button is used to indicate which player has the dealer position.) The player with the button is last to receive cards on the initial deal and has the right of lastaction after the first betting round. The button moves clockwise after a deal ends to rotate the advantage of lastaction. One or more blind bets are usually used to stimulate action and initiate play. Blinds are posted before theplayers look at their cards. Blinds are part of a player’s bet, unless the structure of a game or the situation requirespart or all of a particular blind to be “dead.” Dead chips are not part of a player’s bet. With two blinds, the smallblind is posted by the player immediately clockwise from the button, and the big blind is posted by the player twopositions clockwise from the button. With more than two blinds, the little blind is normally left of the button (noton it). Action is initiated on the first betting round by the first player to the left of the blinds. On all subsequent betting rounds, the action begins with the first active player to the left of the button.
 
-=== Rules for Using Blinds
-
+.Rules for Using Blinds
 . Each round every player must get an opportunity for the button, and meet the total amount of the blindobligations. Either of the following methods of button and blind placement may be designated to do this:
 .. Moving button – The button always moves forward to the next player and the blinds adjust accordingly.There may be more than one big blind.
 .. Dead button – The big blind is posted by the player due for it, and the small blind and button arepositioned accordingly, even if this means the small blind or the button is placed in front of an empty seat,giving the same player the privilege of last action on consecutive hands.[See “Section 16 – Explanations,” discussion #1, for more information on this rule.]
@@ -277,10 +276,9 @@ In button games, If the players deal the cards themselves, “the button” refe
 
 In hold’em, players receive two downcards as their personal hand (holecards), after which there is a round ofbetting. Three boardcards are turned simultaneously (called the “flop”) and another round of betting occurs. Thenext  two  boardcards are  turned one  at  a  time,  with  a  round  of  betting after  each  card.  The  boardcards arecommunity cards, and a player may use any five-card combination from among the board and personal cards. Aplayer may even use all of the boardcards and no personal cards to form a hand (play the board). A dealer button is used. The usual structure is to use two blinds, but it is possible to play the game with one blind, multiple blinds,an ante, or combination of blinds plus an ante.
 
-=== Rules
+These rules deal only with irregularities. See the previous chapter, <<Button and Blind Use>>, for rules on that subject.
 
-These rules deal only with irregularities. See the previous chapter, “Button and Blind Use,” for rules on thatsubject.
-
+.Rules
 . If the first holecard dealt is exposed, a misdeal results. The dealer will retrieve the card, reshuffle, and recut thecards. If any other holecard is exposed due to a dealer error, the deal continues. The exposed card may not bekept. After completing the hand, the dealer replaces the card with the top card on the deck, and the exposedcard is then used for the burncard. If more than one holecard is exposed, this is a misdeal and there must be aredeal.
 . If the flop contains too many cards, it must be redealt. (This applies even if it were possible to know whichcard was the extra one.)
 . If the flop needs to be redealt because the cards were prematurely flopped before the betting was complete, orthe flop contained too many cards, the boardcards are mixed with the remainder of the deck. The burncardremains on the table. After shuffling, the dealer cuts the deck and deals a new flop without burning a card.[See “Section 16 – Explanations,” discussion #2, for more information on this rule.]
@@ -292,16 +290,14 @@ These rules deal only with irregularities. See the previous chapter, “Button a
 
 Omaha is similar to hold’em in using a three-card flop on the board, a fourth boardcard, and then a fifth boardcard.Each player is dealt four holecards (instead of two) at the start. In order to make a hand, a player must use preciselytwo holecards with three boardcards. The betting is the same as in hold'em. At the showdown, the entire four-cardhand should be shown to receive the pot.
 
-=== Rules of Omaha
-
+.Rules of Omaha
 . All the rules of hold’em apply to Omaha except the rule on playing the board, which is not possible in Omaha(because you must use two cards from your hand and three cards from the board).
 
 == Omaha High-Low
 
 Omaha is often played high-low split, 8-or-better. The player may use any combination of two holecards and threeboardcards for the high hand and another (or the same) combination of two holecards and three boardcards for thelow hand.The rules governing kill pots are listed in “Section 13 – Kill Pots.”
 
-=== Rules of Omaha High-Low
-
+.Rules of Omaha High-Low
 . All the rules of Omaha apply to Omaha high-low splitexcept as below.
 . A qualifier of 8-or-better for low applies to all high-low split games, unless a specific posting to the contrary isdisplayed. If there is no qualifying hand for low, the best high hand wins the whole pot.
 
@@ -309,8 +305,7 @@ Omaha is often played high-low split, 8-or-better. The player may use any combin
 
 Seven-card stud is played with two downcards and one upcard dealt before the first betting round, followed bythree more upcards (with a betting round after each card). After the last downcard is dealt, there is a final round ofbetting. The best five-card poker hand wins the pot. In all fixed-limit games, the smaller bet is wagered on the firsttwo betting rounds, and the larger bet is wagered after the betting rounds on the fifth, sixth, and seventh cards. Ifthere is an open pair on the fourth card, any player has the option of making the smaller or larger bet. Deliberatelychanging the order of your upcards in a stud game is improper because it unfairly misleads the other players.
 
-=== Rules of Seven-Card Stud
-
+.Rules of Seven-Card Stud
 . The first round of betting starts with a forced bet by the lowest upcard by suit. On subsequent betting rounds,the high hand on board initiates the action (a tie is broken by position, with the player who received cards firstacting first).
 . The player with the forced bet has the option of opening for a full bet.
 . Increasing the amount wagered by the opening forced bet up to a full bet does not count as a raise, but merelyas a completion of the bet. For example: In $15-$30 stud, the lowcard opens for $5. If the next playerincreases the bet to $15 (completes the bet), up to three raises are then allowed when using a three-raise limit.
@@ -337,8 +332,7 @@ Seven-card stud is played with two downcards and one upcard dealt before the fir
 
 The lowest hand wins the pot. The format is similar to seven-card stud high, except the high card (aces are low) isrequired to make the forced bet on the first round, and the low hand acts first on all subsequent rounds.Straightsand flushes have no ranking, so the best possible hand is 5-4-3-2-A (a wheel). An open pair does not affect thebetting limit.
 
-h
-
+.Rules of Razz
 . All seven-card stud rules apply in razz except as otherwise noted.
 . The lowest hand wins the pot. Aces are low, and straights and flushes have no effect on the low value of ahand. The best possible hand is 5-4-3-2-A.
 . The highest card by suit starts the action with a forced bet. The low hand acts first on all subsequent rounds. Ifthe low hand is tied, the first player clockwise from the dealer starts the action.
@@ -348,8 +342,7 @@ h
 
 Seven-card stud high-low split is a stud game which is played both high and low. A qualifier of 8-or-better for lowapplies to all high-low split games, unless a specific posting to the contrary is displayed. The low card initiates theaction on the first round, with an ace counting as a high card for this purpose. On subsequent rounds, the high handinitiates the action. If the high hand is tied, the first player clockwise from the dealer acts first. Fixed-limit gamesuse the lower limit on third and fourth street and the upper limit on subsequent betting rounds, and an open pairdoes not affect the limit. Aces may be used for high or low. Straights and flushes do not affect the low value of ahand. A player may use any five cards to make the best high hand, and the same or any other grouping of five cardsto make the best low hand.
 
-=== Rules of Seven-Card Stud High-Low
-
+.Rules of Seven-Card Stud High-Low
 . All rules for seven-card stud apply to seven-card stud high-low split, except as otherwise noted.
 . A qualifier of 8-or-better for low applies to all high-low split games, unless a specific posting to the contrary isdisplayed. If there is no qualifying hand for low, the best high hand wins the whole pot.
 . A player may use any five cards to make the best high hand and any five cards, whether the same as the highhand or not, to make the best low hand.
@@ -366,7 +359,6 @@ Seven-card stud high-low split is a stud game which is played both high and low.
 Lowball is draw poker with the lowest hand winning the pot. Each player is dealt five cards facedown, after whichthere is a betting round. Players are required to open with a bet or fold. The players who remain in the pot after thefirst betting round now have an option to improve their hand by replacing cards in their hands with new ones. Thisis the draw. The game is normally played with one or more blinds, sometimes with an ante added. Some bettingstructures allow the big blind to be called; other structures require the minimum open to be double the big blind. Inlimit poker, the usual structure has the limit double after the draw (Northern California is an exception). The mostpopular forms of lowball are ace-to-five lowball (also known as California lowball), and deuce-to-seven lowball(also known as Kansas City lowball). Ace-to-five lowball gets its name because the best hand at that form is 5-4-3-2-A. Deuce-to-seven lowball gets its name because the best hand at that form is 7-5-4-3-2 (not of the same suit).For a further description of the forms of lowball, please see the individual section for each game. All rulesgoverning kill pots are listed in “Section 13 – Kill Pots.”
 
 === Rules of Lowball
-
 . The rules governing misdeals for hold’em and other button games will be used for lowball. [See “Section 16 –Explanations,” discussion #7, for more information on this rule.] These rules governing misdeals are reprintedhere for convenience.“The following circumstances cause a misdeal, provided attention is called to the error before two players haveacted on their hands:
 .. The first or second card of the hand has been dealt faceup or exposed through dealer error.
 .. Two or more cards have been exposed by the dealer.
@@ -464,12 +456,11 @@ There are two betting rounds, one before the draw and one after the draw. The ga
 . If the joker is used to make a flush, it will be the highest card of the flush not present in the hand.
 . Five aces is the best possible hand (four aces and joker).
 
-==  Kill Pots
+== Kill Pots
 
 To kill a pot means to post an overblind that increases the betting limit. A full kill is double the amount of the bigblind, and doubles the betting limits. A half kill is one-and-a-half times the big blind, and increases the bettinglimits by that amount. A kill may be optional in a game, and is often used at lowball when a player wants to bedealt in right away instead of waiting to take the big blind. A kill may be required in a game for any time aspecified event takes place. In high-low split games using a required kill, a player who scoops a pot bigger than aset size must kill the next pot. In other games using a required kill, a player who wins two consecutive pots mustkill the next pot. In this type of kill game, a marker called a “kill button” indicates which player has won the pot,and the winner keeps this marker until the next hand is completed. If the player who has the kill button wins asecond consecutive pot and it qualifies monetarily, that player must kill the next pot.
 
-=== Rules of Kill Pots
-
+.Rules of Kill Pots
 . The kill button is neutral (belonging to no player) if:
 .. It is the first hand of a new game.
 .. The winner of the previous pot has quit the game.
