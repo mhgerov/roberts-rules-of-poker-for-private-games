@@ -272,6 +272,7 @@ In button games, If the players deal the cards themselves, “the button” refe
 . A player who "deals off" (by playing the button and then immediately getting up to change seats) can allow theblinds to pass the new seat one time and reenter the game behind the button without having to post a blind.
 . A live “straddle bet" is not allowed at limit poker except in specified games.
 
+[#holdem]
 == Hold'em
 
 In hold’em, players receive two downcards as their personal hand (holecards), after which there is a round ofbetting. Three boardcards are turned simultaneously (called the “flop”) and another round of betting occurs. Thenext  two  boardcards are  turned one  at  a  time,  with  a  round  of  betting after  each  card.  The  boardcards arecommunity cards, and a player may use any five-card combination from among the board and personal cards. Aplayer may even use all of the boardcards and no personal cards to form a hand (play the board). A dealer button is used. The usual structure is to use two blinds, but it is possible to play the game with one blind, multiple blinds,an ante, or combination of blinds plus an ante.
@@ -582,7 +583,7 @@ A cardroom may either decide for the sake of simplicity to use only one method,o
 . The rules given for rectifying a hold’em situation where the dealer has dealtthe flop or another boardcardbefore all the betting action on a round are inferior, because the dealer is told to not burn a card on a redeal.
 	Since the “no burn” rule is so common, there was no choice but to use it here.
 	But at some point it would begood  for  poker  for  some  major  cardrooms  to  get  together and  agree  to  use  the  better  rule,  or  a  gamingcommission to require the better rule be used.
-	Here is the rules in question (the third rule and fourth rule in <<Hold'em>>).
+	Here is the rules in question (the third rule and fourth rule in <<holdem>>).
 +
 [quote]
 If the cards are prematurely flopped before the betting is complete, or if the flop contains too many cards, theboardcards are mixed with the remainder of the deck.
@@ -608,7 +609,7 @@ This rule is standard practice, but allowing a new player or player making up bl
 At stud, this rule is too strict.
 An inexperienced player sometimes does not pay sufficientattention to the final card when holding a big hand like a flush or full house (where improvement is neitherlikely to happen nor be needed), and fails to protect that card.
 If the dealer erroneously puts that final card intothe muck after the player fails to take it in, the rules should give the decision-maker an option to rule such ahand live.
-Rule 18 in <<Seven-card Stud>> reads as below:
+Rule 18 in <<Seven-Card Stud>> reads as below:
 +
 [quote]
 A hand with more than seven cards is dead.
